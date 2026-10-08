@@ -1,0 +1,3123 @@
+[
+  {
+    "term": "Aberration",
+    "normalizedTerm": "aberration",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/ˌæb.əˈreɪ.ʃən/",
+      "phonetic": "ab-uh-RAY-shun"
+    },
+    "englishDefinitions": [
+      "A departure from what is normal, usual, or expected, typically an unwelcome one."
+    ],
+    "hindiMeanings": [
+      "असामान्यता",
+      "विपथन",
+      "भटकाव"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "असामान्यता",
+        "exampleSentence": "The sudden spike in inflation was an economic aberration caused by external oil shocks.",
+        "exampleHindiTranslation": "मुद्रास्फीति में अचानक आई तेजी बाहरी तेल के झटकों के कारण हुई एक आर्थिक असामान्यता थी।"
+      },
+      {
+        "hindiMeaning": "विपथन",
+        "exampleSentence": "A chromatic aberration in the laboratory lens produced distorted color fringes.",
+        "exampleHindiTranslation": "प्रयोगशाला के लेंस में एक वर्ण विपथन ने विकृत रंगीन किनारों का निर्माण किया।"
+      },
+      {
+        "hindiMeaning": "भटकाव",
+        "exampleSentence": "His impulsive decision to resign was a temporary aberration from his disciplined career.",
+        "exampleHindiTranslation": "इस्तीफा देने का उनका आवेगी निर्णय उनके अनुशासित करियर से एक अस्थायी भटकाव था।"
+      }
+    ],
+    "synonyms": [
+      "anomaly",
+      "deviation",
+      "divergence",
+      "irregularity"
+    ],
+    "antonyms": [
+      "normality",
+      "regularity",
+      "conformity",
+      "standard"
+    ],
+    "relatedWords": [
+      "aberrant",
+      "deviant"
+    ],
+    "mnemonic": "Sounds like 'ab normal ratio' -> something that deviates from the normal standard ratio.",
+    "usageNotes": "Frequently tested in reading comprehension passages discussing statistical or behavioral anomalies.",
+    "etymology": "From Latin 'aberrare' (ab- 'away' + errare 'to wander').",
+    "difficulty": "hard",
+    "category": "Science",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Abundant",
+    "normalizedTerm": "abundant",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/əˈbʌn.dənt/",
+      "phonetic": "uh-BUN-duhnt"
+    },
+    "englishDefinitions": [
+      "Existing or available in large quantities; overflowing or more than sufficient."
+    ],
+    "hindiMeanings": [
+      "प्रचुर",
+      "भरपूर",
+      "अधिक मात्रा में"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "प्रचुर",
+        "exampleSentence": "The valley is blessed with abundant natural resources and fertile agricultural soil.",
+        "exampleHindiTranslation": "यह घाटी प्रचुर प्राकृतिक संसाधनों और उपजाऊ कृषि मिट्टी से समृद्ध है।"
+      },
+      {
+        "hindiMeaning": "भरपूर",
+        "exampleSentence": "The forest provides abundant food and shelter for migratory birds during the winter season.",
+        "exampleHindiTranslation": "यह जंगल सर्दियों के मौसम में प्रवासी पक्षियों के लिए भरपूर भोजन और आश्रय प्रदान करता है।"
+      },
+      {
+        "hindiMeaning": "अधिक मात्रा में",
+        "exampleSentence": "Audit reports revealed abundant evidence of financial irregularities in the public works department.",
+        "exampleHindiTranslation": "ऑडिट रिपोर्टों में लोक निर्माण विभाग में वित्तीय अनियमितताओं के अधिक मात्रा में सबूत सामने आए।"
+      }
+    ],
+    "synonyms": [
+      "plentiful",
+      "copious",
+      "ample",
+      "bountiful"
+    ],
+    "antonyms": [
+      "scarce",
+      "meager",
+      "sparse",
+      "deficient"
+    ],
+    "relatedWords": [
+      "abundance",
+      "abound"
+    ],
+    "mnemonic": "A + Bund (bounty/bandhan of prosperity) -> present in overflowing bounty.",
+    "usageNotes": "Usually paired with the preposition 'in' (e.g., 'abundant in minerals').",
+    "difficulty": "easy",
+    "category": "Economy",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Acrimonious",
+    "normalizedTerm": "acrimonious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˌæk.rɪˈməʊ.ni.əs/",
+      "phonetic": "ak-ruh-MOH-nee-uhs"
+    },
+    "englishDefinitions": [
+      "Angry, bitter, and caustic in tone, manner, or dispute."
+    ],
+    "hindiMeanings": [
+      "कटु",
+      "कटुतापूर्ण",
+      "तीखा"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कटु",
+        "exampleSentence": "The parliament witnessed an acrimonious debate over the proposed electoral reforms.",
+        "exampleHindiTranslation": "प्रस्तावित चुनावी सुधारों को लेकर संसद में कटु बहस देखने को मिली।"
+      },
+      {
+        "hindiMeaning": "कटुतापूर्ण",
+        "exampleSentence": "The commercial partners engaged in an acrimonious legal battle over patent ownership.",
+        "exampleHindiTranslation": "व्यावसायिक साझेदार पेटेंट के स्वामित्व को लेकर एक कटुतापूर्ण कानूनी लड़ाई में उलझ गए।"
+      },
+      {
+        "hindiMeaning": "तीखा",
+        "exampleSentence": "His acrimonious remarks alienated even his most steadfast political allies.",
+        "exampleHindiTranslation": "उनकी तीखी टिप्पणियों ने उनके सबसे वफादार राजनीतिक सहयोगियों को भी अलग-थलग कर दिया।"
+      }
+    ],
+    "synonyms": [
+      "rancorous",
+      "bitter",
+      "caustic",
+      "scathing"
+    ],
+    "antonyms": [
+      "cordial",
+      "harmonious",
+      "amicable",
+      "genial"
+    ],
+    "relatedWords": [
+      "acrimony",
+      "acerbity"
+    ],
+    "mnemonic": "Contains 'acri-' which means bitter or sharp (like acid or acrid smoke).",
+    "usageNotes": "Used primarily to describe verbal interactions, divorces, debates, and disputes.",
+    "difficulty": "medium",
+    "category": "Politics",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Alacrity",
+    "normalizedTerm": "alacrity",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/əˈlæk.rə.ti/",
+      "phonetic": "uh-LAK-ruh-tee"
+    },
+    "englishDefinitions": [
+      "Brisk, cheerful, and prompt readiness to do something."
+    ],
+    "hindiMeanings": [
+      "उत्सुकता",
+      "तत्परता",
+      "उत्साहपूर्ण शीघ्रता"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "उत्सुकता",
+        "exampleSentence": "The newly recruited civil servants accepted their remote field postings with commendable alacrity.",
+        "exampleHindiTranslation": "नवनियुक्त सिविल सेवकों ने सराहनीय उत्सुकता के साथ अपनी दूरस्थ फील्ड पोस्टिंग स्वीकार की।"
+      },
+      {
+        "hindiMeaning": "तत्परता",
+        "exampleSentence": "The disaster response battalion moved with extraordinary alacrity to rescue the trapped villagers.",
+        "exampleHindiTranslation": "आपदा प्रतिक्रिया बटालियन ने फंसे हुए ग्रामीणों को बचाने के लिए असाधारण तत्परता दिखाई।"
+      },
+      {
+        "hindiMeaning": "उत्साहपूर्ण शीघ्रता",
+        "exampleSentence": "She accepted the promotion offer with enthusiastic alacrity.",
+        "exampleHindiTranslation": "उसने पदोन्नति के प्रस्ताव को उत्साहपूर्ण शीघ्रता के साथ स्वीकार कर लिया।"
+      }
+    ],
+    "synonyms": [
+      "eagerness",
+      "promptness",
+      "readiness",
+      "briskness"
+    ],
+    "antonyms": [
+      "reluctance",
+      "apathy",
+      "hesitation",
+      "lethargy"
+    ],
+    "relatedWords": [
+      "allegro"
+    ],
+    "mnemonic": "Sounds like 'at electrical speed' + cheerfulness -> moving swiftly with joy.",
+    "usageNotes": "Always used with the preposition 'with' (e.g., 'he responded with alacrity').",
+    "difficulty": "hard",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Anachronism",
+    "normalizedTerm": "anachronism",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/əˈnæk.rə.nɪ.zəm/",
+      "phonetic": "uh-NAK-ruh-niz-uhm"
+    },
+    "englishDefinitions": [
+      "A thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned."
+    ],
+    "hindiMeanings": [
+      "कालदोष",
+      "समय की विसंगति",
+      "अप्रचलित प्रथा"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कालदोष",
+        "exampleSentence": "Depicting an ancient Roman gladiator wearing a wristwatch is a blatant historical anachronism.",
+        "exampleHindiTranslation": "एक प्राचीन रोमन लड़ाके को कलाई घड़ी पहने दिखाना एक घोर ऐतिहासिक कालदोष है।"
+      },
+      {
+        "hindiMeaning": "समय की विसंगति",
+        "exampleSentence": "In an era of high-speed digital transactions, relying on manual paper ledgers feels like a time anachronism.",
+        "exampleHindiTranslation": "हाई-स्पीड डिजिटल लेनदेन के दौर में मैनुअल कागजी बही-खातों पर निर्भर रहना समय की एक विसंगति जैसा लगता है।"
+      },
+      {
+        "hindiMeaning": "अप्रचलित प्रथा",
+        "exampleSentence": "Some critics argue that hereditary monarchies are an institutional anachronism in modern democracies.",
+        "exampleHindiTranslation": "कुछ आलोचकों का तर्क है कि आधुनिक लोकतंत्रों में वंशानुगत राजतंत्र एक अप्रचलित प्रथा और संस्थागत विसंगति है।"
+      }
+    ],
+    "synonyms": [
+      "misplacement",
+      "archaism",
+      "incongruity",
+      "chronological error"
+    ],
+    "antonyms": [
+      "contemporaneity",
+      "modernity",
+      "synchronism",
+      "currency"
+    ],
+    "relatedWords": [
+      "anachronistic",
+      "chronology"
+    ],
+    "mnemonic": "Ana (against) + Chron (time) -> against the timeline / out of its correct era.",
+    "usageNotes": "Very common in historical analysis and literature comprehension passages.",
+    "difficulty": "hard",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Antipathy",
+    "normalizedTerm": "antipathy",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/ænˈtɪp.ə.θi/",
+      "phonetic": "an-TIP-uh-thee"
+    },
+    "englishDefinitions": [
+      "A deep-seated, habitual feeling of aversion, dislike, or hostility."
+    ],
+    "hindiMeanings": [
+      "घृणा",
+      "विद्वेष",
+      "गहरी अनिच्छा"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "घृणा",
+        "exampleSentence": "He has nurtured a lifelong antipathy toward deceitful corporate practices.",
+        "exampleHindiTranslation": "उन्होंने कपटपूर्ण कॉर्पोरेट प्रथाओं के प्रति आजीवन घृणा बनाए रखी है।"
+      },
+      {
+        "hindiMeaning": "विद्वेष",
+        "exampleSentence": "The historical antipathy between the two border communities hindered bilateral peace talks.",
+        "exampleHindiTranslation": "दोनों सीमावर्ती समुदायों के बीच ऐतिहासिक विद्वेष ने द्विपक्षीय शांति वार्ता में बाधा डाली।"
+      },
+      {
+        "hindiMeaning": "गहरी अनिच्छा",
+        "exampleSentence": "Her strong antipathy to public speaking prevented her from addressing the assembly.",
+        "exampleHindiTranslation": "सार्वजनिक भाषण के प्रति उनकी गहरी अनिच्छा ने उन्हें सभा को संबोधित करने से रोक दिया।"
+      }
+    ],
+    "synonyms": [
+      "hostility",
+      "aversion",
+      "animosity",
+      "enmity"
+    ],
+    "antonyms": [
+      "affinity",
+      "sympathy",
+      "predilection",
+      "rapport"
+    ],
+    "relatedWords": [
+      "antipathetic",
+      "pathos"
+    ],
+    "mnemonic": "Anti (against) + Pathy (feelings) -> feelings that are directly against someone.",
+    "usageNotes": "Often followed by 'toward', 'to', or 'between'.",
+    "difficulty": "medium",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Audacious",
+    "normalizedTerm": "audacious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ɔːˈdeɪ.ʃəs/",
+      "phonetic": "aw-DAY-shuhs"
+    },
+    "englishDefinitions": [
+      "Showing a willingness to take surprisingly bold risks, or showing an impudent lack of respect."
+    ],
+    "hindiMeanings": [
+      "साहसी",
+      "दुस्साहसी",
+      "गुस्ताख"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "साहसी",
+        "exampleSentence": "The young startup embarked on an audacious plan to build affordable satellite launchers.",
+        "exampleHindiTranslation": "इस नए स्टार्टअप ने किफायती उपग्रह प्रक्षेपक बनाने की एक साहसी योजना शुरू की।"
+      },
+      {
+        "hindiMeaning": "दुस्साहसी",
+        "exampleSentence": "The robbers carried out an audacious bank heist in broad daylight.",
+        "exampleHindiTranslation": "लुटेरों ने दिनदहाड़े बैंक में एक दुस्साहसी डकैती को अंजाम दिया।"
+      },
+      {
+        "hindiMeaning": "गुस्ताख",
+        "exampleSentence": "The junior officer was reprimanded for his audacious remarks directed at the chairperson.",
+        "exampleHindiTranslation": "अध्यक्ष पर की गई गुस्ताख टिप्पणियों के लिए कनिष्ठ अधिकारी को फटकार लगाई गई।"
+      }
+    ],
+    "synonyms": [
+      "intrepid",
+      "daring",
+      "brazen",
+      "insolent"
+    ],
+    "antonyms": [
+      "timid",
+      "circumspect",
+      "meek",
+      "cautious"
+    ],
+    "relatedWords": [
+      "audacity"
+    ],
+    "mnemonic": "Audacious people are bold enough to demand an 'audience' with powerful authorities.",
+    "usageNotes": "Can have positive connotations (bold/brave) or negative connotations (insolent/defiant).",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Austere",
+    "normalizedTerm": "austere",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ɒˈstɪər/",
+      "phonetic": "aw-STEER"
+    },
+    "englishDefinitions": [
+      "Severe or strict in manner, attitude, or appearance; having an extremely plain, unadorned style, or living with economic frugality."
+    ],
+    "hindiMeanings": [
+      "कठोर",
+      "सादा",
+      "मितव्ययी"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कठोर",
+        "exampleSentence": "The headmaster was an austere disciplinarian who tolerated no disobedience.",
+        "exampleHindiTranslation": "प्रधानाध्यापक एक कठोर अनुशासनप्रिय व्यक्ति थे जो किसी भी अवज्ञा को सहन नहीं करते थे।"
+      },
+      {
+        "hindiMeaning": "सादा",
+        "exampleSentence": "Monastery cells are known for their austere furnishings consisting of just a cot and table.",
+        "exampleHindiTranslation": "मठ के कमरे केवल एक खाट और मेज से युक्त अपने सादे सामान के लिए जाने जाते हैं।"
+      },
+      {
+        "hindiMeaning": "मितव्ययी",
+        "exampleSentence": "During the sovereign debt crisis, the government implemented austere fiscal measures to reduce deficits.",
+        "exampleHindiTranslation": "संप्रभु ऋण संकट के दौरान सरकार ने घाटे को कम करने के लिए मितव्ययी वित्तीय उपाय लागू किए।"
+      }
+    ],
+    "synonyms": [
+      "ascetic",
+      "unadorned",
+      "frugal",
+      "stringent"
+    ],
+    "antonyms": [
+      "luxurious",
+      "ornate",
+      "indulgent",
+      "lavish"
+    ],
+    "relatedWords": [
+      "austerity"
+    ],
+    "mnemonic": "Rhymes with 'severe' -> austere people live simple, severe lives.",
+    "usageNotes": "'Austerity measures' is a high-frequency economics phrase in banking and civil service papers.",
+    "difficulty": "medium",
+    "category": "Finance",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Banal",
+    "normalizedTerm": "banal",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/bəˈnɑːl/",
+      "phonetic": "buh-NAHL"
+    },
+    "englishDefinitions": [
+      "So lacking in originality as to be obvious, dull, and trite."
+    ],
+    "hindiMeanings": [
+      "तुच्छ",
+      "मामूली",
+      "घिसा-पिटा"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "तुच्छ",
+        "exampleSentence": "The campaign speech was filled with banal slogans that failed to inspire voters.",
+        "exampleHindiTranslation": "अभियान का भाषण तुच्छ और सतही नारों से भरा था जो मतदाताओं को प्रेरित करने में विफल रहा।"
+      },
+      {
+        "hindiMeaning": "मामूली",
+        "exampleSentence": "Their conversation was restricted to banal topics such as the weather and traffic delays.",
+        "exampleHindiTranslation": "उनकी बातचीत मौसम और ट्रैफिक जैसी मामूली बातों तक ही सीमित रही।"
+      },
+      {
+        "hindiMeaning": "घिसा-पिटा",
+        "exampleSentence": "Critics dismissed the action movie for its banal and predictable storyline.",
+        "exampleHindiTranslation": "आलोचकों ने इस एक्शन फिल्म को इसकी घिसी-पिटी और पूर्वानुमेय कहानी के कारण खारिज कर दिया।"
+      }
+    ],
+    "synonyms": [
+      "trite",
+      "hackneyed",
+      "clichéd",
+      "platitudinous"
+    ],
+    "antonyms": [
+      "original",
+      "innovative",
+      "fresh",
+      "profound"
+    ],
+    "relatedWords": [
+      "banality"
+    ],
+    "mnemonic": "Sounds like 'ban all' -> ban all boring, repeated, unoriginal clichés.",
+    "usageNotes": "Used frequently in essay critiques and reading comprehension analyses.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Bellicose",
+    "normalizedTerm": "bellicose",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈbel.ɪ.kəʊs/",
+      "phonetic": "BEL-ih-kohs"
+    },
+    "englishDefinitions": [
+      "Demonstrating aggression and willingness to fight; warlike."
+    ],
+    "hindiMeanings": [
+      "लड़ाकू",
+      "युद्धप्रिय",
+      "झगड़ालू"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "लड़ाकू",
+        "exampleSentence": "The general's bellicose rhetoric heightened geopolitical tensions along the contested border.",
+        "exampleHindiTranslation": "जनरल के लड़ाकू बयानों ने विवादित सीमा पर भू-राजनीतिक तनाव बढ़ा दिया।"
+      },
+      {
+        "hindiMeaning": "युद्धप्रिय",
+        "exampleSentence": "Historical texts describe the expansionist empire as a deeply bellicose society.",
+        "exampleHindiTranslation": "ऐतिहासिक ग्रंथ विस्तारवादी साम्राज्य को एक गहरे युद्धप्रिय समाज के रूप में वर्णित करते हैं।"
+      },
+      {
+        "hindiMeaning": "झगड़ालू",
+        "exampleSentence": "His bellicose temperament made constructive diplomacy impossible.",
+        "exampleHindiTranslation": "उनके झगड़ालू स्वभाव ने रचनात्मक कूटनीति को असंभव बना दिया।"
+      }
+    ],
+    "synonyms": [
+      "belligerent",
+      "pugnacious",
+      "truculent",
+      "combative"
+    ],
+    "antonyms": [
+      "pacific",
+      "conciliatory",
+      "peaceable",
+      "dovish"
+    ],
+    "relatedWords": [
+      "belligerent",
+      "antebellum"
+    ],
+    "mnemonic": "Contains root 'belli-' (war, like rebellion) -> always ready for war.",
+    "usageNotes": "Commonly used in international relations and defense editorials.",
+    "difficulty": "hard",
+    "category": "Politics",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Benevolent",
+    "normalizedTerm": "benevolent",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/bəˈnev.əl.ənt/",
+      "phonetic": "buh-NEV-uh-luhnt"
+    },
+    "englishDefinitions": [
+      "Well-meaning and kindly; serving a charitable rather than a profit-making purpose."
+    ],
+    "hindiMeanings": [
+      "परोपकारी",
+      "दयालु",
+      "हितैषी"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "परोपकारी",
+        "exampleSentence": "The wealthy entrepreneur established a benevolent foundation to fund scholarships for rural girls.",
+        "exampleHindiTranslation": "अमीर उद्यमी ने ग्रामीण लड़कियों की छात्रवृत्ति के लिए एक परोपकारी ट्रस्ट की स्थापना की।"
+      },
+      {
+        "hindiMeaning": "दयालु",
+        "exampleSentence": "The villagers remembered the village doctor as a benevolent healer who treated the poor for free.",
+        "exampleHindiTranslation": "ग्रामीणों ने गांव के डॉक्टर को एक दयालु चिकित्सक के रूप में याद किया जो गरीबों का मुफ्त इलाज करते थे।"
+      },
+      {
+        "hindiMeaning": "हितैषी",
+        "exampleSentence": "Under his benevolent administration, public healthcare and primary schooling improved remarkably.",
+        "exampleHindiTranslation": "उनके हितैषी प्रशासन के तहत सार्वजनिक स्वास्थ्य सेवा और प्राथमिक स्कूली शिक्षा में उल्लेखनीय सुधार हुआ।"
+      }
+    ],
+    "synonyms": [
+      "philanthropic",
+      "altruistic",
+      "magnanimous",
+      "generous"
+    ],
+    "antonyms": [
+      "malevolent",
+      "spiteful",
+      "malicious",
+      "miserly"
+    ],
+    "relatedWords": [
+      "benevolence",
+      "benefactor"
+    ],
+    "mnemonic": "Bene (good) + Vol (wish/will) -> someone who wishes good for others.",
+    "usageNotes": "Antonym is 'malevolent' (mal- = bad).",
+    "difficulty": "easy",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Cacophony",
+    "normalizedTerm": "cacophony",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/kəˈkɒf.ə.ni/",
+      "phonetic": "kuh-KOF-uh-nee"
+    },
+    "englishDefinitions": [
+      "A harsh, discordant mixture of sounds."
+    ],
+    "hindiMeanings": [
+      "कर्कश ध्वनि",
+      "कोलाहल",
+      "बेसुरी आवाज"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कर्कश ध्वनि",
+        "exampleSentence": "The downtown intersection was overwhelmed by a cacophony of blaring horns and screeching brakes.",
+        "exampleHindiTranslation": "शहर का चौराहा बजते हॉर्न और चरमराती ब्रेक की कर्कश ध्वनि से भर गया था।"
+      },
+      {
+        "hindiMeaning": "कोलाहल",
+        "exampleSentence": "Amid the market cacophony, it was difficult for shoppers to hear each other speak.",
+        "exampleHindiTranslation": "बाजार के कोलाहल के बीच खरीदारों के लिए एक-दूसरे की बात सुनना मुश्किल था।"
+      },
+      {
+        "hindiMeaning": "बेसुरी आवाज",
+        "exampleSentence": "The inexperienced choir produced a surprising cacophony during the opening rehearsal.",
+        "exampleHindiTranslation": "अनुभवहीन गायक दल ने शुरुआती रिहर्सल के दौरान एक आश्चर्यजनक बेसुरी आवाज पैदा की।"
+      }
+    ],
+    "synonyms": [
+      "din",
+      "dissonance",
+      "discord",
+      "clamor"
+    ],
+    "antonyms": [
+      "harmony",
+      "euphony",
+      "symphony",
+      "melody"
+    ],
+    "relatedWords": [
+      "cacophonous"
+    ],
+    "mnemonic": "Caco (bad/harsh) + Phone (sound) -> bad harsh sound (opposite of euphony).",
+    "usageNotes": "Frequently paired in antonym questions with 'euphony'.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Capricious",
+    "normalizedTerm": "capricious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/kəˈprɪʃ.əs/",
+      "phonetic": "kuh-PRISH-uhs"
+    },
+    "englishDefinitions": [
+      "Given to sudden and unaccountable changes of mood or behavior; fickle and unpredictable."
+    ],
+    "hindiMeanings": [
+      "मनमौजी",
+      "अस्थिर",
+      "अप्रत्याशित"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "मनमौजी",
+        "exampleSentence": "The autocratic ruler made capricious policy changes that disrupted the civil administration.",
+        "exampleHindiTranslation": "निरंकुश शासक ने मनमौजी नीतिगत बदलाव किए जिससे नागरिक प्रशासन बाधित हुआ।"
+      },
+      {
+        "hindiMeaning": "अस्थिर",
+        "exampleSentence": "Trading commodities in a capricious stock market requires robust risk management algorithms.",
+        "exampleHindiTranslation": "एक अस्थिर शेयर बाजार में वस्तुओं का व्यापार करने के लिए मजबूत जोखिम प्रबंधन एल्गोरिदम की आवश्यकता होती है।"
+      },
+      {
+        "hindiMeaning": "अप्रत्याशित",
+        "exampleSentence": "Himalayan mountaineers must prepare for capricious weather patterns that shift within minutes.",
+        "exampleHindiTranslation": "हिमालयी पर्वतारोहियों को अप्रत्याशित मौसम के मिजाज के लिए तैयार रहना चाहिए जो मिनटों में बदल जाता है।"
+      }
+    ],
+    "synonyms": [
+      "fickle",
+      "volatile",
+      "mercurial",
+      "whimsical"
+    ],
+    "antonyms": [
+      "steadfast",
+      "predictable",
+      "consistent",
+      "stable"
+    ],
+    "relatedWords": [
+      "caprice"
+    ],
+    "mnemonic": "Like a 'cap' in the wind -> flips direction unpredictably at any sudden impulse.",
+    "usageNotes": "Crucial word in stock market, geopolitical, and character profile contexts.",
+    "difficulty": "hard",
+    "category": "Economy",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Castigate",
+    "normalizedTerm": "castigate",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "verb"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈkæs.tɪ.ɡeɪt/",
+      "phonetic": "KAS-tih-gayt"
+    },
+    "englishDefinitions": [
+      "Reprimand or criticize someone severely; punish verbally."
+    ],
+    "hindiMeanings": [
+      "कड़ी फटकार लगाना",
+      "आलोचना करना",
+      "दंडित करना"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कड़ी फटकार लगाना",
+        "exampleSentence": "The Supreme Court bench castigated the regulatory authorities for their lethargic response to pollution.",
+        "exampleHindiTranslation": "सुप्रीम कोर्ट की बेंच ने प्रदूषण के प्रति सुस्त प्रतिक्रिया के लिए नियामक अधिकारियों को कड़ी फटकार लगाई।"
+      },
+      {
+        "hindiMeaning": "आलोचना करना",
+        "exampleSentence": "Editorial columns across the country castigated the committee's biased recommendations.",
+        "exampleHindiTranslation": "देश भर के संपादकीय कॉलमों ने समिति की पक्षपातपूर्ण सिफारिशों की तीखी आलोचना की।"
+      },
+      {
+        "hindiMeaning": "दंडित करना",
+        "exampleSentence": "The tribunal castigated the fraudulent firm with heavy compensatory penalties.",
+        "exampleHindiTranslation": "न्यायाधिकरण ने धोखाधड़ी करने वाली फर्म को भारी जुर्माने के साथ दंडित किया।"
+      }
+    ],
+    "synonyms": [
+      "rebuke",
+      "chastise",
+      "censure",
+      "reprimand"
+    ],
+    "antonyms": [
+      "praise",
+      "laud",
+      "commend",
+      "extol"
+    ],
+    "relatedWords": [
+      "castigation"
+    ],
+    "mnemonic": "Castigate sounds like 'cast into the gate' -> severely punished and locked out.",
+    "usageNotes": "Extremely frequent in legal and governmental news reporting.",
+    "difficulty": "hard",
+    "category": "Governance",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Chicanery",
+    "normalizedTerm": "chicanery",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/ʃɪˈkeɪ.nər.i/",
+      "phonetic": "shih-KAY-nuh-ree"
+    },
+    "englishDefinitions": [
+      "The use of trickery, deceit, or underhanded cleverness to achieve a financial, legal, or political purpose."
+    ],
+    "hindiMeanings": [
+      "धोखाधड़ी",
+      "चालबाजी",
+      "कपट"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "धोखाधड़ी",
+        "exampleSentence": "The forensic accounting team uncovered extensive financial chicanery intended to evade corporation tax.",
+        "exampleHindiTranslation": "फॉरेंसिक अकाउंटिंग टीम ने कॉर्पोरेशन टैक्स से बचने के उद्देश्य से की गई व्यापक वित्तीय धोखाधड़ी का पर्दाफाश किया।"
+      },
+      {
+        "hindiMeaning": "चालबाजी",
+        "exampleSentence": "The election was tainted by allegations of ballot tampering and procedural chicanery.",
+        "exampleHindiTranslation": "मतदान में हेरफेर और प्रक्रियात्मक चालबाजी के आरोपों से चुनाव दागदार हो गया।"
+      },
+      {
+        "hindiMeaning": "कपट",
+        "exampleSentence": "She achieved commercial success through honest labor rather than corporate chicanery.",
+        "exampleHindiTranslation": "उसने कॉर्पोरेट कपट के बजाय ईमानदार परिश्रम के माध्यम से व्यावसायिक सफलता हासिल की।"
+      }
+    ],
+    "synonyms": [
+      "deception",
+      "subterfuge",
+      "duplicity",
+      "trickery"
+    ],
+    "antonyms": [
+      "candor",
+      "forthrightness",
+      "honesty",
+      "integrity"
+    ],
+    "relatedWords": [
+      "chicane"
+    ],
+    "mnemonic": "Chicanery sounds like 'shikari' (hunter) who sets clever traps and deceptive tricks.",
+    "usageNotes": "Regularly appears in corruption and banking governance articles.",
+    "difficulty": "hard",
+    "category": "Finance",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Cogent",
+    "normalizedTerm": "cogent",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈkəʊ.dʒənt/",
+      "phonetic": "KOH-juhnt"
+    },
+    "englishDefinitions": [
+      "Clear, logical, and convincingly persuasive."
+    ],
+    "hindiMeanings": [
+      "ठोस",
+      "प्रभावशाली",
+      "तर्कसंगत"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "ठोस",
+        "exampleSentence": "The defense attorney presented cogent evidence that conclusively proved the suspect's innocence.",
+        "exampleHindiTranslation": "बचाव पक्ष के वकील ने ऐसे ठोस सबूत पेश किए जिससे संदिग्ध की बेगुनाही निर्णायक रूप से साबित हो गई।"
+      },
+      {
+        "hindiMeaning": "प्रभावशाली",
+        "exampleSentence": "The economist made a cogent argument in favor of lowering interest rates to stimulate business growth.",
+        "exampleHindiTranslation": "अर्थशास्त्री ने व्यापार विकास को प्रोत्साहित करने के लिए ब्याज दरों को कम करने के पक्ष में एक प्रभावशाली तर्क दिया।"
+      },
+      {
+        "hindiMeaning": "तर्कसंगत",
+        "exampleSentence": "Her essay was praised for its cogent structure and well-documented premises.",
+        "exampleHindiTranslation": "उनकी निबंध की उसके तर्कसंगत ढांचे और अच्छी तरह से प्रलेखित आधारों के लिए प्रशंसा की गई।"
+      }
+    ],
+    "synonyms": [
+      "compelling",
+      "persuasive",
+      "lucid",
+      "convincing"
+    ],
+    "antonyms": [
+      "unconvincing",
+      "weak",
+      "fallacious",
+      "incoherent"
+    ],
+    "relatedWords": [
+      "cogency"
+    ],
+    "mnemonic": "Co (together) + Gent (gentlemanly logic) -> arguments that pull reasoning together compellingly.",
+    "usageNotes": "'Cogent argument' and 'cogent reasoning' are the two primary formal collocations.",
+    "difficulty": "medium",
+    "category": "Governance",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Deleterious",
+    "normalizedTerm": "deleterious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˌdel.ɪˈtɪə.ri.əs/",
+      "phonetic": "del-ih-TEER-ee-uhs"
+    },
+    "englishDefinitions": [
+      "Causing harm, damage, or detriment, especially in a gradual or insidious manner."
+    ],
+    "hindiMeanings": [
+      "हानिकारक",
+      "घातक",
+      "नुकसानदेह"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "हानिकारक",
+        "exampleSentence": "Excessive consumption of processed sugars has a deleterious effect on cardiovascular health.",
+        "exampleHindiTranslation": "प्रसंस्कृत चीनी का अत्यधिक सेवन हृदय स्वास्थ्य पर हानिकारक प्रभाव डालता है।"
+      },
+      {
+        "hindiMeaning": "घातक",
+        "exampleSentence": "The persistent discharge of industrial effluents proved deleterious to the river's aquatic ecosystem.",
+        "exampleHindiTranslation": "औद्योगिक अपशिष्टों का लगातार बहाव नदी के जलीय पारिस्थितिकी तंत्र के लिए घातक साबित हुआ।"
+      },
+      {
+        "hindiMeaning": "नुकसानदेह",
+        "exampleSentence": "Uncontrolled deficit spending can exert deleterious pressure on currency stability.",
+        "exampleHindiTranslation": "अनियंत्रित घाटा खर्च मुद्रा की स्थिरता पर नुकसानदेह दबाव डाल सकता है।"
+      }
+    ],
+    "synonyms": [
+      "detrimental",
+      "harmful",
+      "injurious",
+      "pernicious"
+    ],
+    "antonyms": [
+      "beneficial",
+      "salubrious",
+      "advantageous",
+      "wholesome"
+    ],
+    "relatedWords": [
+      "delete"
+    ],
+    "mnemonic": "Sounds like 'delete' -> deleterious things delete your good health and well-being.",
+    "usageNotes": "Often tested alongside its antonym 'salubrious'.",
+    "difficulty": "hard",
+    "category": "Science",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Demagogue",
+    "normalizedTerm": "demagogue",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈdem.ə.ɡɒɡ/",
+      "phonetic": "DEM-uh-gog"
+    },
+    "englishDefinitions": [
+      "A political leader who seeks support by appealing to popular desires, prejudices, and emotions rather than by using rational argument."
+    ],
+    "hindiMeanings": [
+      "जनोत्तेजक नेता",
+      "दुर्भावना भड़काने वाला",
+      "लोकरंजक वक्ता"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "जनोत्तेजक नेता",
+        "exampleSentence": "The demagogue stoked communal fears to secure electoral victories in vulnerable districts.",
+        "exampleHindiTranslation": "उस जनोत्तेजक नेता ने संवेदनशील जिलों में चुनावी जीत हासिल करने के लिए सांप्रदायिक डर को हवा दी।"
+      },
+      {
+        "hindiMeaning": "दुर्भावना भड़काने वाला",
+        "exampleSentence": "Democracies require vigilance against demagogues who weaponize social media algorithms for discord.",
+        "exampleHindiTranslation": "लोकतंत्रों को दुर्भावना भड़काने वाले ऐसे नेताओं से सतर्क रहने की आवश्यकता है जो कलह के लिए सोशल मीडिया को हथियार बनाते हैं।"
+      },
+      {
+        "hindiMeaning": "लोकरंजक वक्ता",
+        "exampleSentence": "History warns that charismatic demagogues can dismantle democratic institutions from within.",
+        "exampleHindiTranslation": "इतिहास गवाह है कि करिश्माई लोकरंजक वक्ता लोकतांत्रिक संस्थाओं को भीतर से नष्ट कर सकते हैं।"
+      }
+    ],
+    "synonyms": [
+      "rabble-rouser",
+      "agitator",
+      "firebrand",
+      "populist"
+    ],
+    "antonyms": [
+      "statesman",
+      "peacemaker",
+      "conciliator",
+      "unifier"
+    ],
+    "relatedWords": [
+      "demagoguery",
+      "demagogic"
+    ],
+    "mnemonic": "Demos (people) + Agogos (leader) -> literally a leader who sways the masses via emotion.",
+    "usageNotes": "Standard term in political science, ethics, and democratic theory passages.",
+    "difficulty": "hard",
+    "category": "Politics",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Diffident",
+    "normalizedTerm": "diffident",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈdɪf.ɪ.dənt/",
+      "phonetic": "DIF-ih-duhnt"
+    },
+    "englishDefinitions": [
+      "Modest or shy because of a lack of self-confidence."
+    ],
+    "hindiMeanings": [
+      "संकोची",
+      "आत्मविश्वासहीन",
+      "झेंपू"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "संकोची",
+        "exampleSentence": "The diffident scholar rarely raised his hand during faculty debates despite having the deepest expertise.",
+        "exampleHindiTranslation": "सबसे गहरी विशेषज्ञता होने के बावजूद वह संकोची विद्वान संकाय चर्चाओं के दौरान शायद ही कभी अपना हाथ उठाता था।"
+      },
+      {
+        "hindiMeaning": "आत्मविश्वासहीन",
+        "exampleSentence": "Her diffident delivery during the interview masked her formidable analytical acumen.",
+        "exampleHindiTranslation": "साक्षात्कार के दौरान उसकी आत्मविश्वासहीन अभिव्यक्ति ने उसकी जबरदस्त विश्लेषणात्मक क्षमता को छिपा दिया।"
+      },
+      {
+        "hindiMeaning": "झेंपू",
+        "exampleSentence": "With patient mentorship, the diffident recruit blossomed into a persuasive public speaker.",
+        "exampleHindiTranslation": "धैर्यपूर्ण मार्गदर्शन से वह झेंपू नया सदस्य एक प्रभावशाली सार्वजनिक वक्ता बन गया।"
+      }
+    ],
+    "synonyms": [
+      "timid",
+      "hesitant",
+      "self-effacing",
+      "unassertive"
+    ],
+    "antonyms": [
+      "confident",
+      "assertive",
+      "bold",
+      "presumptuous"
+    ],
+    "relatedWords": [
+      "diffidence"
+    ],
+    "mnemonic": "Opposite of confident (Dif- = lack of + Fident/fidelis = faith in oneself).",
+    "usageNotes": "Frequently paired in antonym questions with 'assertive' or 'brazen'.",
+    "difficulty": "medium",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Disparate",
+    "normalizedTerm": "disparate",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈdɪs.pər.ət/",
+      "phonetic": "DIS-puhr-it"
+    },
+    "englishDefinitions": [
+      "Essentially different in kind; not allowing comparison."
+    ],
+    "hindiMeanings": [
+      "असमान",
+      "भिन्न",
+      "विजातीय"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "असमान",
+        "exampleSentence": "The task force synthesized disparate economic indicators to build an accurate macro forecast.",
+        "exampleHindiTranslation": "कार्यबल ने सटीक मैक्रो पूर्वानुमान बनाने के लिए असमान आर्थिक संकेतकों को संश्लेषित किया।"
+      },
+      {
+        "hindiMeaning": "भिन्न",
+        "exampleSentence": "The committee comprised scholars from widely disparate disciplines including sociology, law, and physics.",
+        "exampleHindiTranslation": "समिति में समाजशास्त्र, कानून और भौतिकी सहित व्यापक रूप से भिन्न विषयों के विद्वान शामिल थे।"
+      },
+      {
+        "hindiMeaning": "विजातीय",
+        "exampleSentence": "Uniting disparate ethnic factions proved the greatest hurdle for the interim government.",
+        "exampleHindiTranslation": "विजातीय जातीय गुटों को एकजुट करना अंतरिम सरकार के लिए सबसे बड़ी बाधा साबित हुआ।"
+      }
+    ],
+    "synonyms": [
+      "divergent",
+      "heterogeneous",
+      "dissimilar",
+      "contrasting"
+    ],
+    "antonyms": [
+      "homogeneous",
+      "analogous",
+      "uniform",
+      "similar"
+    ],
+    "relatedWords": [
+      "disparity"
+    ],
+    "mnemonic": "Dis (not) + Parate (separate/equal, like parity) -> not on equal or comparable footing.",
+    "usageNotes": "'Disparate elements' and 'disparate data sources' are common analytical expressions.",
+    "difficulty": "medium",
+    "category": "Economy",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Eclectic",
+    "normalizedTerm": "eclectic",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ekˈlek.tɪk/",
+      "phonetic": "ek-LEK-tik"
+    },
+    "englishDefinitions": [
+      "Deriving ideas, style, or taste from a broad and diverse range of sources."
+    ],
+    "hindiMeanings": [
+      "विविधतापूर्ण",
+      "उदार",
+      "सारग्राही"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "विविधतापूर्ण",
+        "exampleSentence": "The curator assembled an eclectic collection of contemporary paintings, tribal sculptures, and digital art.",
+        "exampleHindiTranslation": "क्यूरेटर ने समकालीन चित्रों, जनजातीय मूर्तियों और डिजिटल कला का एक विविधतापूर्ण संग्रह तैयार किया।"
+      },
+      {
+        "hindiMeaning": "उदार",
+        "exampleSentence": "His eclectic reading habits span ancient Vedic philosophies, quantum physics, and modern economics.",
+        "exampleHindiTranslation": "उनकी उदार अध्ययन आदतों में प्राचीन वैदिक दर्शन, क्वांटम भौतिकी और आधुनिक अर्थशास्त्र शामिल हैं।"
+      },
+      {
+        "hindiMeaning": "सारग्राही",
+        "exampleSentence": "The architect blended classical columns with modernist steel facades in an eclectic design.",
+        "exampleHindiTranslation": "वास्तुकार ने एक सारग्राही डिजाइन में शास्त्रीय स्तंभों को आधुनिकतावादी स्टील के मोहरों के साथ मिश्रित किया।"
+      }
+    ],
+    "synonyms": [
+      "diverse",
+      "catholic",
+      "multifaceted",
+      "broad-ranging"
+    ],
+    "antonyms": [
+      "dogmatic",
+      "monolithic",
+      "narrow",
+      "parochial"
+    ],
+    "relatedWords": [
+      "eclecticism"
+    ],
+    "mnemonic": "Elect + select -> choosing and electing the best ideas from multiple varied domains.",
+    "usageNotes": "Used to describe versatile tastes, research methods, or architectural designs.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Eloquent",
+    "normalizedTerm": "eloquent",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈel.ə.kwənt/",
+      "phonetic": "EL-uh-kwuhnt"
+    },
+    "englishDefinitions": [
+      "Fluent or persuasive in speaking or writing; clearly expressing or indicating something."
+    ],
+    "hindiMeanings": [
+      "सुवक्ता",
+      "प्रभावशाली",
+      "अर्थपूर्ण"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "सुवक्ता",
+        "exampleSentence": "The civil rights advocate delivered an eloquent address that moved the entire international assembly to tears.",
+        "exampleHindiTranslation": "नागरिक अधिकार अधिवक्ता ने एक ऐसा प्रभावशाली और सुवक्ता भाषण दिया जिसने पूरी अंतरराष्ट्रीय सभा को भावुक कर दिया।"
+      },
+      {
+        "hindiMeaning": "प्रभावशाली",
+        "exampleSentence": "Her eloquent defense of freedom of speech convinced even skeptical members of the jury.",
+        "exampleHindiTranslation": "वाक् स्वतंत्रता के उनके प्रभावशाली बचाव ने जूरी के संशयवादी सदस्यों को भी मना लिया।"
+      },
+      {
+        "hindiMeaning": "अर्थपूर्ण",
+        "exampleSentence": "The desolate silence of the abandoned refugee camp was an eloquent testament to the horrors of war.",
+        "exampleHindiTranslation": "परित्यक्त शरणार्थी शिविर की सुनसान खामोशी युद्ध की भयावहता का एक अर्थपूर्ण और मूक प्रमाण थी।"
+      }
+    ],
+    "synonyms": [
+      "articulate",
+      "persuasive",
+      "expressive",
+      "fluent"
+    ],
+    "antonyms": [
+      "inarticulate",
+      "tongue-tied",
+      "stammering",
+      "unexpressive"
+    ],
+    "relatedWords": [
+      "eloquence",
+      "elocution"
+    ],
+    "mnemonic": "E- (out) + Loqu (speak, like loquacious) -> words that flow out with beauty and power.",
+    "usageNotes": "Can describe spoken eloquence or symbolic objects ('an eloquent silence').",
+    "difficulty": "easy",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Enervate",
+    "normalizedTerm": "enervate",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "verb"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈen.ə.veɪt/",
+      "phonetic": "EN-er-vayt"
+    },
+    "englishDefinitions": [
+      "Cause someone to feel drained of energy or vitality; weaken."
+    ],
+    "hindiMeanings": [
+      "कमजोर करना",
+      "शक्तिहीन करना",
+      "थकाना"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कमजोर करना",
+        "exampleSentence": "The oppressive heat and humidity of the tropical summer enervate travelers within hours.",
+        "exampleHindiTranslation": "उष्णकटिबंधीय गर्मियों की दमनकारी गर्मी और उमस कुछ ही घंटों में यात्रियों को कमजोर कर देती है।"
+      },
+      {
+        "hindiMeaning": "शक्तिहीन करना",
+        "exampleSentence": "Years of factional infighting enervated the political party before the general election.",
+        "exampleHindiTranslation": "सालों की गुटबाजी ने आम चुनाव से पहले ही राजनीतिक पार्टी को शक्तिहीन कर दिया।"
+      },
+      {
+        "hindiMeaning": "थकाना",
+        "exampleSentence": "A chronic lack of restful sleep will enervate your cognitive and analytical stamina.",
+        "exampleHindiTranslation": "आरामदायक नींद की लगातार कमी आपके संज्ञानात्मक और विश्लेषणात्मक सहनशक्ति को थका देगी।"
+      }
+    ],
+    "synonyms": [
+      "exhaust",
+      "debilitate",
+      "drain",
+      "sap"
+    ],
+    "antonyms": [
+      "invigorate",
+      "energize",
+      "strengthen",
+      "vitalize"
+    ],
+    "relatedWords": [
+      "enervation"
+    ],
+    "mnemonic": "Sound trap! Enervate does NOT mean 'energize'; it means 'take nerves/energy away' (E- out + nerve).",
+    "usageNotes": "A notorious trap word in vocabulary exams where students mistake it for energize.",
+    "difficulty": "hard",
+    "category": "Science",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Ephemeral",
+    "normalizedTerm": "ephemeral",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ɪˈfem.ər.əl/",
+      "phonetic": "ih-FEM-er-uhl"
+    },
+    "englishDefinitions": [
+      "Lasting for a very short time; transitory and fleeting."
+    ],
+    "hindiMeanings": [
+      "अल्पकालिक",
+      "क्षणभंगुर",
+      "अस्थायी"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "अल्पकालिक",
+        "exampleSentence": "Viral social media fame is often ephemeral, disappearing as quickly as the next trend emerges.",
+        "exampleHindiTranslation": "वायरल सोशल मीडिया प्रसिद्धि अक्सर अल्पकालिक होती है, जो अगले ट्रेंड के आते ही गायब हो जाती है।"
+      },
+      {
+        "hindiMeaning": "क्षणभंगुर",
+        "exampleSentence": "Desert blooms are an ephemeral spectacle, wilting within hours after the rare rainfall ceases.",
+        "exampleHindiTranslation": "रेगिस्तानी फूल एक क्षणभंगुर नजारा होते हैं, जो दुर्लभ बारिश बंद होने के कुछ ही घंटों बाद मुरझा जाते हैं।"
+      },
+      {
+        "hindiMeaning": "अस्थायी",
+        "exampleSentence": "He recognized that worldly power is ephemeral compared to enduring moral legacy.",
+        "exampleHindiTranslation": "उन्होंने महसूस किया कि स्थायी नैतिक विरासत की तुलना में सांसारिक शक्ति बिल्कुल अस्थायी है।"
+      }
+    ],
+    "synonyms": [
+      "transitory",
+      "evanescent",
+      "fleeting",
+      "short-lived"
+    ],
+    "antonyms": [
+      "perpetual",
+      "enduring",
+      "everlasting",
+      "permanent"
+    ],
+    "relatedWords": [
+      "ephemera"
+    ],
+    "mnemonic": "Sounds like 'E-funeral' -> something that dies almost as soon as it is born.",
+    "usageNotes": "One of the most frequently tested GRE/SSC/Banking vocabulary words.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Equivocal",
+    "normalizedTerm": "equivocal",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ɪˈkwɪv.ə.kəl/",
+      "phonetic": "ih-KWIV-uh-kuhl"
+    },
+    "englishDefinitions": [
+      "Open to more than one interpretation; ambiguous, uncertain, or deliberately misleading."
+    ],
+    "hindiMeanings": [
+      "अस्पष्ट",
+      "द्व्यर्थी",
+      "संदेहास्पद"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "अस्पष्ट",
+        "exampleSentence": "The spokesperson gave an equivocal response when pressed about future interest rate hikes.",
+        "exampleHindiTranslation": "भविष्य में ब्याज दरों में बढ़ोतरी के बारे में पूछे जाने पर प्रवक्ता ने एक अस्पष्ट प्रतिक्रिया दी।"
+      },
+      {
+        "hindiMeaning": "द्व्यर्थी",
+        "exampleSentence": "The diplomat drafted an equivocal communiqué to avoid offending either superpower.",
+        "exampleHindiTranslation": "राजनयिक ने किसी भी महाशक्ति को नाराज करने से बचने के लिए एक द्व्यर्थी संयुक्त वक्तव्य तैयार किया।"
+      },
+      {
+        "hindiMeaning": "संदेहास्पद",
+        "exampleSentence": "The experimental trial produced equivocal results that warranted additional independent verification.",
+        "exampleHindiTranslation": "प्रायोगिक परीक्षण ने संदेहास्पद और अनिश्चित परिणाम दिए जिनके लिए अतिरिक्त स्वतंत्र सत्यापन की आवश्यकता थी।"
+      }
+    ],
+    "synonyms": [
+      "ambiguous",
+      "evasive",
+      "cryptic",
+      "obscure"
+    ],
+    "antonyms": [
+      "unequivocal",
+      "unambiguous",
+      "lucid",
+      "explicit"
+    ],
+    "relatedWords": [
+      "equivocate",
+      "equivocation"
+    ],
+    "mnemonic": "Equi (equal) + Vocal (voices) -> speaking with equal voices so no single meaning is clear.",
+    "usageNotes": "Antonym 'unequivocal' (crystal clear, absolute) is also heavily tested.",
+    "difficulty": "hard",
+    "category": "Governance",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Erudite",
+    "normalizedTerm": "erudite",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈer.ʊ.daɪt/",
+      "phonetic": "EHR-yoo-dyt"
+    },
+    "englishDefinitions": [
+      "Having or showing great knowledge or learning; scholarly."
+    ],
+    "hindiMeanings": [
+      "विद्वान",
+      "ज्ञानी",
+      "पांडित्यपूर्ण"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "विद्वान",
+        "exampleSentence": "The judicial bench sought counsel from an erudite jurist specializing in constitutional jurisprudence.",
+        "exampleHindiTranslation": "न्यायिक पीठ ने संवैधानिक न्यायशास्त्र के विशेषज्ञ एक विद्वान विधिवेत्ता से सलाह मांगी।"
+      },
+      {
+        "hindiMeaning": "ज्ञानी",
+        "exampleSentence": "Her erudite monograph on ancient Indus trade routes earned international academic acclaim.",
+        "exampleHindiTranslation": "प्राचीन सिंधु व्यापार मार्गों पर उनके ज्ञानी शोध प्रबंध ने अंतरराष्ट्रीय अकादमिक प्रशंसा अर्जित की।"
+      },
+      {
+        "hindiMeaning": "पांडित्यपूर्ण",
+        "exampleSentence": "The professor enlivened the seminar with an erudite discussion of classical philology.",
+        "exampleHindiTranslation": "प्रोफेसर ने शास्त्रीय भाषाशास्त्र की एक पांडित्यपूर्ण चर्चा के साथ संगोष्ठी को जीवंत बना दिया।"
+      }
+    ],
+    "synonyms": [
+      "scholarly",
+      "learned",
+      "cultivated",
+      "intellectual"
+    ],
+    "antonyms": [
+      "ignorant",
+      "illiterate",
+      "uneducated",
+      "crude"
+    ],
+    "relatedWords": [
+      "erudition"
+    ],
+    "mnemonic": "E- (out of) + Rude (crude/uneducated) -> someone educated out of ignorance.",
+    "usageNotes": "Used to describe people, books, discourses, and legal arguments.",
+    "difficulty": "medium",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Esoteric",
+    "normalizedTerm": "esoteric",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˌes.əˈter.ɪk/",
+      "phonetic": "es-uh-TEHR-ik"
+    },
+    "englishDefinitions": [
+      "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest."
+    ],
+    "hindiMeanings": [
+      "गूढ़",
+      "गुप्त",
+      "केवल विशेषज्ञों द्वारा समझने योग्य"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "गूढ़",
+        "exampleSentence": "Theoretical physics conferences frequently delve into esoteric concepts beyond the layman's comprehension.",
+        "exampleHindiTranslation": "सैद्धांतिक भौतिकी सम्मेलन अक्सर आम आदमी की समझ से परे गूढ़ अवधारणाओं पर चर्चा करते हैं।"
+      },
+      {
+        "hindiMeaning": "गुप्त",
+        "exampleSentence": "Ancient monastic sects guarded their esoteric rituals from outsiders for centuries.",
+        "exampleHindiTranslation": "प्राचीन मठवासी संप्रदायों ने सदियों से अपने गुप्त अनुष्ठानों को बाहरी लोगों से सुरक्षित रखा।"
+      },
+      {
+        "hindiMeaning": "केवल विशेषज्ञों द्वारा समझने योग्य",
+        "exampleSentence": "The contract was loaded with esoteric maritime salvage terminology that baffled common lawyers.",
+        "exampleHindiTranslation": "अनुबंध केवल विशेषज्ञों द्वारा समझने योग्य समुद्री बचाव शब्दावली से भरा था जिसने सामान्य वकीलों को चकित कर दिया।"
+      }
+    ],
+    "synonyms": [
+      "abstruse",
+      "arcane",
+      "recondite",
+      "occult"
+    ],
+    "antonyms": [
+      "exoteric",
+      "commonplace",
+      "familiar",
+      "accessible"
+    ],
+    "relatedWords": [
+      "esotericism"
+    ],
+    "mnemonic": "Eso (inner circle) -> knowledge reserved strictly for the inner circle.",
+    "usageNotes": "Antonym is 'exoteric' (suitable for the general public).",
+    "difficulty": "hard",
+    "category": "Science",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Exacerbate",
+    "normalizedTerm": "exacerbate",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "verb"
+    ],
+    "pronunciation": {
+      "ipa": "/ɪɡˈzæs.ə.beɪt/",
+      "phonetic": "ig-ZAS-er-bayt"
+    },
+    "englishDefinitions": [
+      "Make a problem, bad situation, or negative feeling worse."
+    ],
+    "hindiMeanings": [
+      "बिगाड़ना",
+      "और खराब करना",
+      "तीव्र करना"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "बिगाड़ना",
+        "exampleSentence": "The unexpected fuel price hike will exacerbate existing inflationary pressures on the common man.",
+        "exampleHindiTranslation": "ईंधन की कीमतों में अप्रत्याशित वृद्धि आम आदमी पर मौजूदा मुद्रास्फीति के दबाव को और बिगाड़ देगी।"
+      },
+      {
+        "hindiMeaning": "और खराब करना",
+        "exampleSentence": "Partisan mudslinging in the media will only exacerbate social polarization in the border state.",
+        "exampleHindiTranslation": "मीडिया में पक्षपातपूर्ण कीचड़ उछालना सीमावर्ती राज्य में सामाजिक ध्रुवीकरण को और खराब करेगा।"
+      },
+      {
+        "hindiMeaning": "तीव्र करना",
+        "exampleSentence": "Dust storms severely exacerbated his acute respiratory allergy.",
+        "exampleHindiTranslation": "धूल भरी आंधियों ने उनकी गंभीर श्वसन एलर्जी को बहुत तीव्र कर दिया।"
+      }
+    ],
+    "synonyms": [
+      "aggravate",
+      "worsen",
+      "inflame",
+      "compound"
+    ],
+    "antonyms": [
+      "ameliorate",
+      "mitigate",
+      "alleviate",
+      "soothe"
+    ],
+    "relatedWords": [
+      "exacerbation",
+      "acerbity"
+    ],
+    "mnemonic": "Contains 'acerb' (bitter/acidic) -> making a wound more acidic and painful.",
+    "usageNotes": "Classic pair with antonyms 'mitigate' and 'ameliorate' in competitive exams.",
+    "difficulty": "medium",
+    "category": "Economy",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Fastidious",
+    "normalizedTerm": "fastidious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/fæsˈtɪd.i.əs/",
+      "phonetic": "fas-TID-ee-uhs"
+    },
+    "englishDefinitions": [
+      "Very attentive to and concerned about accuracy, detail, and cleanliness; excessively particular."
+    ],
+    "hindiMeanings": [
+      "नखरेबाज",
+      "बारीकबीन",
+      "अतिसावधान"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "नखरेबाज",
+        "exampleSentence": "The fastidious food critic refused to eat at any restaurant that lacked flawless cutlery.",
+        "exampleHindiTranslation": "नखरेबाज खाद्य समीक्षक ने ऐसे किसी भी रेस्तरां में खाने से इनकार कर दिया जिसमें बेदाग कटलरी नहीं थी।"
+      },
+      {
+        "hindiMeaning": "बारीकबीन",
+        "exampleSentence": "His fastidious attention to grammatical accuracy ensured the manifesto was free of typographical errors.",
+        "exampleHindiTranslation": "व्याकरणिक सटीकता पर उनके बारीकबीन ध्यान ने यह सुनिश्चित किया कि घोषणापत्र टाइपिंग की गलतियों से मुक्त रहे।"
+      },
+      {
+        "hindiMeaning": "अतिसावधान",
+        "exampleSentence": "Forensic investigators followed fastidious sterilization procedures at the crime scene.",
+        "exampleHindiTranslation": "फॉरेंसिक जांचकर्ताओं ने अपराध स्थल पर अतिसावधान कीटाणुशोधन प्रक्रियाओं का पालन किया।"
+      }
+    ],
+    "synonyms": [
+      "meticulous",
+      "scrupulous",
+      "punctilious",
+      "fussy"
+    ],
+    "antonyms": [
+      "slovenly",
+      "careless",
+      "lax",
+      "indiscriminate"
+    ],
+    "relatedWords": [
+      "fastidiousness"
+    ],
+    "mnemonic": "Fast + Tidy -> someone who insists everything must be tidy and done fastidiously.",
+    "usageNotes": "Can describe perfectionist working habits or finicky personal cleanliness.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Frugal",
+    "normalizedTerm": "frugal",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈfruː.ɡəl/",
+      "phonetic": "FROO-guhl"
+    },
+    "englishDefinitions": [
+      "Sparing or economical with regard to money or food; simple and plain and costing little."
+    ],
+    "hindiMeanings": [
+      "मितव्ययी",
+      "किफायती",
+      "कम खर्चीला"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "मितव्ययी",
+        "exampleSentence": "Despite his vast wealth, the philanthropist lived a frugal life in a modest ancestral house.",
+        "exampleHindiTranslation": "अपनी अपार संपत्ति के बावजूद उस परोपकारी व्यक्ति ने एक मामूली पैतृक घर में मितव्ययी जीवन व्यतीत किया।"
+      },
+      {
+        "hindiMeaning": "किफायती",
+        "exampleSentence": "The bootstrapped enterprise adopted a frugal innovation model to keep production overheads minimal.",
+        "exampleHindiTranslation": "बूटस्ट्रैप्ड उद्यम ने उत्पादन लागत को न्यूनतम रखने के लिए एक किफायती नवाचार मॉडल अपनाया।"
+      },
+      {
+        "hindiMeaning": "कम खर्चीला",
+        "exampleSentence": "The travelers sustained themselves on a frugal diet of bread, pulses, and wild fruits.",
+        "exampleHindiTranslation": "यात्रियों ने रोटी, दाल और जंगली फलों के कम खर्चीले और सादे आहार पर अपना गुजारा किया।"
+      }
+    ],
+    "synonyms": [
+      "thrifty",
+      "economical",
+      "sparing",
+      "parsimonious"
+    ],
+    "antonyms": [
+      "extravagant",
+      "profligate",
+      "wasteful",
+      "lavish"
+    ],
+    "relatedWords": [
+      "frugality"
+    ],
+    "mnemonic": "Think of someone living on 'fruit' rather than expensive lavish restaurant meals.",
+    "usageNotes": "Positive connotation (responsible saving); 'parsimonious' or 'miserly' is negative.",
+    "difficulty": "easy",
+    "category": "Finance",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Garrulous",
+    "normalizedTerm": "garrulous",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈɡær.əl.əs/",
+      "phonetic": "GAIR-uh-luhs"
+    },
+    "englishDefinitions": [
+      "Excessively talkative, especially on trivial matters; loquacious."
+    ],
+    "hindiMeanings": [
+      "बातूनी",
+      "वाचाल",
+      "बकवादी"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "बातूनी",
+        "exampleSentence": "The garrulous passenger seated beside me kept narrating his personal anecdotes throughout the flight.",
+        "exampleHindiTranslation": "मेरे बगल में बैठे बातूनी सह-यात्री ने पूरी उड़ान के दौरान अपने व्यक्तिगत किस्से सुनाना जारी रखा।"
+      },
+      {
+        "hindiMeaning": "वाचाल",
+        "exampleSentence": "Wine made the normally reserved scholar surprisingly garrulous at the celebratory banquet.",
+        "exampleHindiTranslation": "शराब ने आम तौर पर चुप रहने वाले विद्वान को जश्न के भोज में आश्चर्यजनक रूप से वाचाल बना दिया।"
+      },
+      {
+        "hindiMeaning": "बकवादी",
+        "exampleSentence": "The manager grew weary of garrulous employees who wasted meeting hours on trivial gossip.",
+        "exampleHindiTranslation": "प्रबंधक उन बकवादी कर्मचारियों से तंग आ गया जो तुच्छ गपशप में बैठक के घंटे बर्बाद करते थे।"
+      }
+    ],
+    "synonyms": [
+      "loquacious",
+      "voluble",
+      "talkative",
+      "verbose"
+    ],
+    "antonyms": [
+      "taciturn",
+      "reticent",
+      "laconic",
+      "reserved"
+    ],
+    "relatedWords": [
+      "garrulity"
+    ],
+    "mnemonic": "Girls and guys in 'girls hostel' talking endlessly -> garrulous chatter.",
+    "usageNotes": "Frequently paired in antonym questions with 'taciturn' and 'laconic'.",
+    "difficulty": "hard",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Gregarious",
+    "normalizedTerm": "gregarious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ɡrɪˈɡeə.ri.əs/",
+      "phonetic": "grih-GAIR-ee-uhs"
+    },
+    "englishDefinitions": [
+      "Fond of company; sociable; living in flocks or loose communities."
+    ],
+    "hindiMeanings": [
+      "मिलनसार",
+      "झुंड में रहने वाला",
+      "सामाजिक"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "मिलनसार",
+        "exampleSentence": "Her gregarious personality allowed her to build an extensive diplomatic network across foreign capitals.",
+        "exampleHindiTranslation": "उनके मिलनसार व्यक्तित्व ने उन्हें विदेशी राजधानियों में एक व्यापक राजनयिक नेटवर्क बनाने में सक्षम बनाया।"
+      },
+      {
+        "hindiMeaning": "झुंड में रहने वाला",
+        "exampleSentence": "Elephants and wolves are gregarious animals that rely on coordinated pack dynamics for survival.",
+        "exampleHindiTranslation": "हाथी और भेड़िये झुंड में रहने वाले जानवर हैं जो जीवित रहने के लिए समन्वित समूह गतिशीलता पर निर्भर करते हैं।"
+      },
+      {
+        "hindiMeaning": "सामाजिक",
+        "exampleSentence": "He transformed from a lonely introverted student into a gregarious campus leader.",
+        "exampleHindiTranslation": "वह एक अकेले अंतर्मुखी छात्र से एक मिलनसार और सामाजिक कैंपस लीडर में बदल गया।"
+      }
+    ],
+    "synonyms": [
+      "sociable",
+      "companionable",
+      "convivial",
+      "extroverted"
+    ],
+    "antonyms": [
+      "solitary",
+      "introverted",
+      "reclusive",
+      "unsociable"
+    ],
+    "relatedWords": [
+      "aggregate",
+      "congregation",
+      "egregious"
+    ],
+    "mnemonic": "Contains root 'greg-' meaning flock or herd -> loves being with the herd/group.",
+    "usageNotes": "Used for both human social behavior and zoological herd animals.",
+    "difficulty": "medium",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Harangue",
+    "normalizedTerm": "harangue",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "pronunciation": {
+      "ipa": "/həˈræŋ/",
+      "phonetic": "huh-RANG"
+    },
+    "englishDefinitions": [
+      "A lengthy and aggressive speech addressed to a crowd, or to lecture someone at length in an aggressive manner."
+    ],
+    "hindiMeanings": [
+      "उग्र भाषण",
+      "भाषणबाजी करना",
+      "फटकार भरा व्याख्यान"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "उग्र भाषण",
+        "exampleSentence": "The labor union leader launched into a furious harangue denouncing the factory management.",
+        "exampleHindiTranslation": "मजदूर संघ के नेता ने फैक्ट्री प्रबंधन की निंदा करते हुए एक उग्र भाषण शुरू कर दिया।"
+      },
+      {
+        "hindiMeaning": "भाषणबाजी करना",
+        "exampleSentence": "The street preacher harangued passersby about moral decay for over two hours.",
+        "exampleHindiTranslation": "सड़क पर उपदेशक ने दो घंटे से अधिक समय तक नैतिक पतन के बारे में राहगीरों को उग्र भाषणबाजी दी।"
+      },
+      {
+        "hindiMeaning": "फटकार भरा व्याख्यान",
+        "exampleSentence": "The coach subjected the losing team to an uncomfortable harangue in the locker room.",
+        "exampleHindiTranslation": "कोच ने लॉकर रूम में हारने वाली टीम को एक असहज और फटकार भरे व्याख्यान से नवाजा।"
+      }
+    ],
+    "synonyms": [
+      "tirade",
+      "diatribe",
+      "rant",
+      "screed"
+    ],
+    "antonyms": [
+      "panegyric",
+      "encomium",
+      "eulogy",
+      "tribute"
+    ],
+    "relatedWords": [
+      "haranguer"
+    ],
+    "mnemonic": "Sounds like 'her anger' -> delivering an angry, loud tirade.",
+    "usageNotes": "High-yield word in reading comprehension passages discussing political demagogues.",
+    "difficulty": "hard",
+    "category": "Politics",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Iconoclast",
+    "normalizedTerm": "iconoclast",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/aɪˈkɒn.ə.klæst/",
+      "phonetic": "eye-KON-uh-klast"
+    },
+    "englishDefinitions": [
+      "A person who attacks cherished beliefs, traditional institutions, or established dogmas."
+    ],
+    "hindiMeanings": [
+      "रूढ़िभंजक",
+      "परंपरा विरोधी",
+      "मूर्तिभंजक"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "रूढ़िभंजक",
+        "exampleSentence": "Raja Ram Mohan Roy was an intellectual iconoclast who dismantled regressive social superstitions.",
+        "exampleHindiTranslation": "राजा राम मोहन राय एक ऐसे बौद्धिक रूढ़िभंजक थे जिन्होंने प्रतिगामी सामाजिक अंधविश्वासों को नष्ट किया।"
+      },
+      {
+        "hindiMeaning": "परंपरा विरोधी",
+        "exampleSentence": "In modern technology, Steve Jobs acted as an iconoclast who rejected conventional corporate dogmas.",
+        "exampleHindiTranslation": "आधुनिक तकनीक में स्टीव जॉब्स ने एक परंपरा विरोधी के रूप में काम किया जिन्होंने पारंपरिक कॉर्पोरेट मान्यताओं को खारिज कर दिया।"
+      },
+      {
+        "hindiMeaning": "मूर्तिभंजक",
+        "exampleSentence": "Medieval iconoclasts destroyed historic religious sculptures during the doctrinal wars.",
+        "exampleHindiTranslation": "मध्ययुगीन मूर्तिभंजकों ने सैद्धांतिक युद्धों के दौरान ऐतिहासिक धार्मिक मूर्तियों को नष्ट कर दिया।"
+      }
+    ],
+    "synonyms": [
+      "dissident",
+      "rebel",
+      "heretic",
+      "nonconformist"
+    ],
+    "antonyms": [
+      "conformist",
+      "traditionalist",
+      "orthodox",
+      "dogmatist"
+    ],
+    "relatedWords": [
+      "iconoclastic",
+      "iconoclasm"
+    ],
+    "mnemonic": "Icon + Clast (breaker) -> literally an icon breaker / breaker of sacred traditions.",
+    "usageNotes": "Standard term in history, sociology, and modern entrepreneurship profiles.",
+    "difficulty": "hard",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Inchoate",
+    "normalizedTerm": "inchoate",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ɪnˈkəʊ.eɪt/",
+      "phonetic": "in-KOH-it"
+    },
+    "englishDefinitions": [
+      "Just begun and so not fully formed or developed; rudimentary."
+    ],
+    "hindiMeanings": [
+      "अपूर्ण",
+      "प्रारंभिक",
+      "अविकसित"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "अपूर्ण",
+        "exampleSentence": "At this conceptual stage, the draft legislation is still an inchoate proposal subject to revision.",
+        "exampleHindiTranslation": "इस वैचारिक स्तर पर मसौदा कानून अभी भी एक अपूर्ण प्रस्ताव है जिसमें संशोधन संभव है।"
+      },
+      {
+        "hindiMeaning": "प्रारंभिक",
+        "exampleSentence": "The young democracy struggled with inchoate judicial institutions that lacked codification.",
+        "exampleHindiTranslation": "नौजवान लोकतंत्र प्रारंभिक न्यायिक संस्थानों के साथ जूझ रहा था जिनमें संहिताबद्धता की कमी थी।"
+      },
+      {
+        "hindiMeaning": "अविकसित",
+        "exampleSentence": "She held an inchoate sense of unease about the commercial contract before reading the fine print.",
+        "exampleHindiTranslation": "बारीक विवरण पढ़ने से पहले ही उसे व्यावसायिक अनुबंध के बारे में एक अविकसित और अस्पष्ट असहजता का अहसास था।"
+      }
+    ],
+    "synonyms": [
+      "rudimentary",
+      "nascent",
+      "embryonic",
+      "unformed"
+    ],
+    "antonyms": [
+      "mature",
+      "fully developed",
+      "complete",
+      "perfected"
+    ],
+    "relatedWords": [
+      "inchoation"
+    ],
+    "mnemonic": "Sounds like 'inch' + 'ate' -> just moved an inch, still at the very beginning embryonic stage.",
+    "usageNotes": "Frequent in legal vocabulary ('inchoate offense' such as conspiracy or attempt).",
+    "difficulty": "hard",
+    "category": "Governance",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Insidious",
+    "normalizedTerm": "insidious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ɪnˈsɪd.i.əs/",
+      "phonetic": "in-SID-ee-uhs"
+    },
+    "englishDefinitions": [
+      "Proceeding in a gradual, subtle way, but with harmful, treacherous effects."
+    ],
+    "hindiMeanings": [
+      "घातक",
+      "कपटपूर्ण",
+      "छल-छिद्रपूर्ण"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "घातक",
+        "exampleSentence": "Hypertension is an insidious medical condition that damages arterial walls without overt early symptoms.",
+        "exampleHindiTranslation": "उच्च रक्तचाप एक ऐसी घातक स्थिति है जो शुरुआती स्पष्ट लक्षणों के बिना धमनी की दीवारों को नुकसान पहुंचाती है।"
+      },
+      {
+        "hindiMeaning": "कपटपूर्ण",
+        "exampleSentence": "Fake news campaigns exert an insidious influence on public opinion during democratic elections.",
+        "exampleHindiTranslation": "फर्जी समाचार अभियान लोकतांत्रिक चुनावों के दौरान जनता की राय पर एक कपटपूर्ण और सूक्ष्म प्रभाव डालते हैं।"
+      },
+      {
+        "hindiMeaning": "छल-छिद्रपूर्ण",
+        "exampleSentence": "The insidious spread of corruption weakened the administrative machinery from within.",
+        "exampleHindiTranslation": "भ्रष्टाचार के छल-छिद्रपूर्ण प्रसार ने प्रशासनिक मशीनरी को भीतर से कमजोर कर दिया।"
+      }
+    ],
+    "synonyms": [
+      "stealthy",
+      "treacherous",
+      "surreptitious",
+      "pernicious"
+    ],
+    "antonyms": [
+      "straightforward",
+      "harmless",
+      "benign",
+      "overt"
+    ],
+    "relatedWords": [
+      "insidiousness"
+    ],
+    "mnemonic": "Inside + Hideous -> something hideous that works quietly from the inside.",
+    "usageNotes": "Used for chronic diseases, institutional corruption, or psychological propaganda.",
+    "difficulty": "medium",
+    "category": "Science",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Juxtapose",
+    "normalizedTerm": "juxtapose",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "verb"
+    ],
+    "pronunciation": {
+      "ipa": "/ˌdʒʌk.stəˈpəʊz/",
+      "phonetic": "JUK-stuh-pohz"
+    },
+    "englishDefinitions": [
+      "Place or deal with close together for contrasting effect."
+    ],
+    "hindiMeanings": [
+      "तुलना के लिए पास-पास रखना",
+      "मुकाबला करना",
+      "समीप रखना"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "तुलना के लिए पास-पास रखना",
+        "exampleSentence": "The documentary juxtaposed luxury high-rises with adjoining slum settlements to highlight extreme inequality.",
+        "exampleHindiTranslation": "डॉक्यूमेंट्री ने अत्यधिक असमानता को उजागर करने के लिए लक्जरी गगनचुंबी इमारतों को पास की झुग्गी बस्तियों के साथ तुलना के लिए पास-पास दिखाया।"
+      },
+      {
+        "hindiMeaning": "मुकाबला करना",
+        "exampleSentence": "In her essay, she juxtaposed classical Gandhian non-violence with modern realpolitik.",
+        "exampleHindiTranslation": "अपने निबंध में उन्होंने शास्त्रीय गांधीवादी अहिंसा का आधुनिक यथार्थवादी राजनीति के साथ मुकाबला और तुलना की।"
+      },
+      {
+        "hindiMeaning": "समीप रखना",
+        "exampleSentence": "The exhibition juxtaposed ancient terracotta pottery with futuristic carbon-fiber sculptures.",
+        "exampleHindiTranslation": "प्रदर्शनी में प्राचीन टेराकोटा मिट्टी के बर्तनों को भविष्य के कार्बन-फाइबर मूर्तियों के समीप रखा गया था।"
+      }
+    ],
+    "synonyms": [
+      "collocate",
+      "compare",
+      "contrast",
+      "parallel"
+    ],
+    "antonyms": [
+      "separate",
+      "isolate",
+      "disconnect",
+      "dissociate"
+    ],
+    "relatedWords": [
+      "juxtaposition"
+    ],
+    "mnemonic": "Juxta (next to, Latin) + Pose (put/place) -> placing two things next to each other to see contrast.",
+    "usageNotes": "Standard critical analysis verb in literary, sociology, and economic essays.",
+    "difficulty": "hard",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Laconic",
+    "normalizedTerm": "laconic",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ləˈkɒn.ɪk/",
+      "phonetic": "luh-KON-ik"
+    },
+    "englishDefinitions": [
+      "Using very few words; concise to the point of seeming rude or mysterious."
+    ],
+    "hindiMeanings": [
+      "संक्षिप्त",
+      "मितभाषी",
+      "कम शब्दों में कहने वाला"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "संक्षिप्त",
+        "exampleSentence": "The CEO issued a laconic one-sentence memo confirming the corporate merger.",
+        "exampleHindiTranslation": "सीईओ ने कॉर्पोरेट विलय की पुष्टि करते हुए एक संक्षिप्त एक-वाक्य का ज्ञापन जारी किया।"
+      },
+      {
+        "hindiMeaning": "मितभाषी",
+        "exampleSentence": "Known for his laconic style, the commander gave clear instructions without wasting a single word.",
+        "exampleHindiTranslation": "अपनी मितभाषी शैली के लिए जाने जाने वाले कमांडर ने एक भी शब्द बर्बाद किए बिना स्पष्ट निर्देश दिए।"
+      },
+      {
+        "hindiMeaning": "कम शब्दों में कहने वाला",
+        "exampleSentence": "His laconic reply of 'Perhaps' left reporters wondering what the ministry truly planned.",
+        "exampleHindiTranslation": "उनके कम शब्दों में दिए गए 'शायद' के जवाब ने पत्रकारों को यह सोचने पर मजबूर कर दिया कि मंत्रालय की वास्तविक योजना क्या थी।"
+      }
+    ],
+    "synonyms": [
+      "terse",
+      "succinct",
+      "concise",
+      "pithy"
+    ],
+    "antonyms": [
+      "verbose",
+      "garrulous",
+      "loquacious",
+      "voluble"
+    ],
+    "relatedWords": [
+      "laconism"
+    ],
+    "mnemonic": "Originated from 'Laconia' (Sparta), where citizens were famous for brief, blunt speech.",
+    "usageNotes": "Standard antonym for verbose/garrulous in competitive exam papers.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Meticulous",
+    "normalizedTerm": "meticulous",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/məˈtɪk.jə.ləs/",
+      "phonetic": "muh-TIK-yoo-luhs"
+    },
+    "englishDefinitions": [
+      "Showing great attention to detail; very careful and precise."
+    ],
+    "hindiMeanings": [
+      "अतिसावधान",
+      "सूक्ष्मदर्शी",
+      "बारीकबीन"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "अतिसावधान",
+        "exampleSentence": "Through meticulous record-keeping, the government auditor recovered billions in unpaid royalties.",
+        "exampleHindiTranslation": "अतिसावधान रिकॉर्ड-रखरखाव के माध्यम से सरकारी ऑडिटर ने अवैतनिक रॉयल्टी में अरबों रुपये की वसूली की।"
+      },
+      {
+        "hindiMeaning": "सूक्ष्मदर्शी",
+        "exampleSentence": "Archaeological excavation demands meticulous brushing to preserve brittle pottery shards.",
+        "exampleHindiTranslation": "पुरातत्वीय उत्खनन में नाजुक मिट्टी के बर्तनों के टुकड़ों को संरक्षित करने के लिए सूक्ष्मदर्शी सफाई की मांग होती है।"
+      },
+      {
+        "hindiMeaning": "बारीकबीन",
+        "exampleSentence": "Her meticulous preparation during mock tests secured her top rank in the civil services exam.",
+        "exampleHindiTranslation": "मॉक टेस्ट के दौरान उनकी बारीकबीन और गहन तैयारी ने सिविल सेवा परीक्षा में उनकी शीर्ष रैंक सुरक्षित की।"
+      }
+    ],
+    "synonyms": [
+      "scrupulous",
+      "painstaking",
+      "punctilious",
+      "diligent"
+    ],
+    "antonyms": [
+      "careless",
+      "slipshod",
+      "slapdash",
+      "negligent"
+    ],
+    "relatedWords": [
+      "meticulousness"
+    ],
+    "mnemonic": "Meticulous sounds like 'medical' -> like a surgeon doing surgery with extreme precision.",
+    "usageNotes": "Positive connotation emphasizing thoroughness and excellence.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Mitigate",
+    "normalizedTerm": "mitigate",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "verb"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈmɪt.ɪ.ɡeɪt/",
+      "phonetic": "MIT-ih-gayt"
+    },
+    "englishDefinitions": [
+      "Make less severe, serious, or painful; lessen the gravity of an offense or mistake."
+    ],
+    "hindiMeanings": [
+      "कम करना",
+      "शांत करना",
+      "तीव्रता घटाना"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कम करना",
+        "exampleSentence": "The central bank lowered repo rates to mitigate the economic slowdown during the liquidity crunch.",
+        "exampleHindiTranslation": "केंद्रीय बैंक ने नकदी संकट के दौरान आर्थिक मंदी के असर को कम करने के लिए रेपो दरों में कटौती की।"
+      },
+      {
+        "hindiMeaning": "शांत करना",
+        "exampleSentence": "Afforestation along coastal belts helps mitigate the destructive storm surges of severe cyclones.",
+        "exampleHindiTranslation": "तटीय क्षेत्रों में वनीकरण गंभीर चक्रवातों के विनाशकारी तूफान के प्रकोप को शांत और कम करने में मदद करता है।"
+      },
+      {
+        "hindiMeaning": "तीव्रता घटाना",
+        "exampleSentence": "Emergency food deliveries helped mitigate the immediate severity of the famine.",
+        "exampleHindiTranslation": "आपातकालीन खाद्य आपूर्ति ने अकाल की तात्कालिक तीव्रता और गंभीरता को घटाने में मदद की।"
+      }
+    ],
+    "synonyms": [
+      "alleviate",
+      "ameliorate",
+      "palliate",
+      "attenuate"
+    ],
+    "antonyms": [
+      "exacerbate",
+      "aggravate",
+      "intensify",
+      "worsen"
+    ],
+    "relatedWords": [
+      "mitigation",
+      "unmitigated"
+    ],
+    "mnemonic": "Miti + Gate -> pouring 'mitti' (soil) over a fire to lessen and extinguish its intensity.",
+    "usageNotes": "'Mitigating circumstances' is a foundational legal phrase in criminal jurisprudence.",
+    "difficulty": "medium",
+    "category": "Economy",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Nefarious",
+    "normalizedTerm": "nefarious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/nɪˈfeə.ri.əs/",
+      "phonetic": "nih-FAIR-ee-uhs"
+    },
+    "englishDefinitions": [
+      "Wicked, villainous, or criminal in nature."
+    ],
+    "hindiMeanings": [
+      "कुटिल",
+      "दुष्ट",
+      "अति पापी"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कुटिल",
+        "exampleSentence": "The intelligence agency foiled a nefarious plot to breach the country's power grid servers.",
+        "exampleHindiTranslation": "खुफिया एजेंसी ने देश के पावर ग्रिड सर्वर को हैक करने की एक कुटिल साजिश को नाकाम कर दिया।"
+      },
+      {
+        "hindiMeaning": "दुष्ट",
+        "exampleSentence": "Transnational syndicates use shell corporations for the nefarious laundering of narcotics profits.",
+        "exampleHindiTranslation": "अंतरराष्ट्रीय सिंडिकेट नशीले पदार्थों के मुनाफे की दुष्ट मनी लॉन्ड्रिंग के लिए शेल कंपनियों का उपयोग करते हैं।"
+      },
+      {
+        "hindiMeaning": "अति पापी",
+        "exampleSentence": "The warlord faced international indictment for his nefarious human rights violations.",
+        "exampleHindiTranslation": "मानवाधिकारों के अति पापी और क्रूर उल्लंघनों के लिए उस युद्ध सरदार को अंतरराष्ट्रीय अभियोग का सामना करना पड़ा।"
+      }
+    ],
+    "synonyms": [
+      "wicked",
+      "heinous",
+      "villainous",
+      "iniquitous"
+    ],
+    "antonyms": [
+      "virtuous",
+      "righteous",
+      "honorable",
+      "noble"
+    ],
+    "relatedWords": [
+      "nefariousness"
+    ],
+    "mnemonic": "Ne- (not) + Fas (divine law) -> something completely contrary to divine and moral law.",
+    "usageNotes": "Used for sinister criminal conspiracies and cyber warfare.",
+    "difficulty": "medium",
+    "category": "Governance",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Obsequious",
+    "normalizedTerm": "obsequious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/əbˈsiː.kwi.əs/",
+      "phonetic": "uhb-SEE-kwee-uhs"
+    },
+    "englishDefinitions": [
+      "Obedient or attentive to an excessive or servile degree; sycophantic."
+    ],
+    "hindiMeanings": [
+      "चापलूसी करने वाला",
+      "चापलूस",
+      "अति-विनम्र"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "चापलूसी करने वाला",
+        "exampleSentence": "The dictator was surrounded by obsequious aides who never dared to criticize his disastrous decrees.",
+        "exampleHindiTranslation": "तानाशाह ऐसे चापलूसी करने वाले सहायकों से घिरा हुआ था जो कभी भी उसके विनाशकारी आदेशों की आलोचना करने की हिम्मत नहीं करते थे।"
+      },
+      {
+        "hindiMeaning": "चापलूस",
+        "exampleSentence": "His obsequious behavior toward the hiring panel alienated colleagues who valued genuine merit.",
+        "exampleHindiTranslation": "नियुक्ति पैनल के प्रति उनके चापलूस व्यवहार ने उन सहयोगियों को नाराज कर दिया जो वास्तविक योग्यता को महत्व देते थे।"
+      },
+      {
+        "hindiMeaning": "अति-विनम्र",
+        "exampleSentence": "Waiters in the luxury banquet bowed with an obsequious deference that made some guests uneasy.",
+        "exampleHindiTranslation": "लक्जरी दावत में वेटर इतनी अति-विनम्र झुककर सेवा कर रहे थे जिसने कुछ मेहमानों को असहज कर दिया।"
+      }
+    ],
+    "synonyms": [
+      "sycophantic",
+      "servile",
+      "fawning",
+      "subservient"
+    ],
+    "antonyms": [
+      "assertive",
+      "imperious",
+      "independent",
+      "domineering"
+    ],
+    "relatedWords": [
+      "obsequiousness"
+    ],
+    "mnemonic": "Obsequious people attend to bosses like servants at an 'obsequy' (funeral) with bowed heads.",
+    "usageNotes": "Strong negative connotation; closely aligned with 'sycophant'.",
+    "difficulty": "hard",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Paragon",
+    "normalizedTerm": "paragon",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈpær.ə.ɡən/",
+      "phonetic": "PAIR-uh-gon"
+    },
+    "englishDefinitions": [
+      "A person or thing regarded as a perfect example of a particular quality."
+    ],
+    "hindiMeanings": [
+      "आदर्श",
+      "उत्कृष्ट उदाहरण",
+      "प्रतिमान"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "आदर्श",
+        "exampleSentence": "The retired diplomat was hailed as a paragon of integrity and administrative impartiality.",
+        "exampleHindiTranslation": "सेवानिवृत्त राजनयिक को ईमानदारी और प्रशासनिक निष्पक्षता का आदर्श माना जाता था।"
+      },
+      {
+        "hindiMeaning": "उत्कृष्ट उदाहरण",
+        "exampleSentence": "The ancient university was celebrated across Asia as a paragon of secular scientific learning.",
+        "exampleHindiTranslation": "प्राचीन विश्वविद्यालय को पूरे एशिया में धर्मनिरपेक्ष वैज्ञानिक शिक्षा के एक उत्कृष्ट उदाहरण के रूप में मनाया जाता था।"
+      },
+      {
+        "hindiMeaning": "प्रतिमान",
+        "exampleSentence": "Her selfless social service established her as a paragon of community volunteerism.",
+        "exampleHindiTranslation": "उनकी निःस्वार्थ समाज सेवा ने उन्हें सामुदायिक स्वयंसेवा का एक प्रतिमान बना दिया।"
+      }
+    ],
+    "synonyms": [
+      "epitome",
+      "exemplar",
+      "archetype",
+      "apotheosis"
+    ],
+    "antonyms": [
+      "antithesis",
+      "flaw",
+      "imperfection",
+      "anomaly"
+    ],
+    "relatedWords": [
+      "paragon"
+    ],
+    "mnemonic": "Paragon footwear claims to be the 'model/perfect standard' of quality.",
+    "usageNotes": "Usually followed by the preposition 'of' (e.g., 'a paragon of virtue').",
+    "difficulty": "medium",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Quixotic",
+    "normalizedTerm": "quixotic",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/kwɪkˈsɒt.ɪk/",
+      "phonetic": "kwik-SOT-ik"
+    },
+    "englishDefinitions": [
+      "Exceedingly idealistic; unrealistic and impractical."
+    ],
+    "hindiMeanings": [
+      "कल्पनाशील",
+      "अव्यावहारिक",
+      "अवास्तविक"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कल्पनाशील",
+        "exampleSentence": "His quixotic quest to eliminate administrative red tape single-handedly ran into bureaucratic gridlock.",
+        "exampleHindiTranslation": "अकेले दम पर प्रशासनिक लालफीताशाही को खत्म करने का उनका कल्पनाशील और जुनूनी अभियान नौकरशाही के गतिरोध में फंस गया।"
+      },
+      {
+        "hindiMeaning": "अव्यावहारिक",
+        "exampleSentence": "Investors rejected the startup's quixotic proposal to build underwater passenger hyperloops.",
+        "exampleHindiTranslation": "निवेशकों ने पानी के नीचे यात्री हाइपरलूप बनाने के स्टार्टअप के अव्यावहारिक प्रस्ताव को अस्वीकार कर दिया।"
+      },
+      {
+        "hindiMeaning": "अवास्तविक",
+        "exampleSentence": "Expecting zero inflation during a global supply chain disruption is completely quixotic.",
+        "exampleHindiTranslation": "वैश्विक आपूर्ति श्रृंखला में व्यवधान के दौरान शून्य मुद्रास्फीति की उम्मीद करना पूरी तरह से अवास्तविक है।"
+      }
+    ],
+    "synonyms": [
+      "idealistic",
+      "impractical",
+      "visionary",
+      "utopian"
+    ],
+    "antonyms": [
+      "pragmatic",
+      "practical",
+      "realistic",
+      "utilitarian"
+    ],
+    "relatedWords": [
+      "Don Quixote"
+    ],
+    "mnemonic": "Derived from the fictional hero 'Don Quixote' who foolishly tilted at windmills believing they were giants.",
+    "usageNotes": "Standard antonym for 'pragmatic' across all competitive examinations.",
+    "difficulty": "hard",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Reticent",
+    "normalizedTerm": "reticent",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈret.ɪ.sənt/",
+      "phonetic": "RET-ih-suhnt"
+    },
+    "englishDefinitions": [
+      "Not revealing one's thoughts or feelings readily; reserved and silent."
+    ],
+    "hindiMeanings": [
+      "अल्पभाषी",
+      "मौन रहने वाला",
+      "संकोची"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "अल्पभाषी",
+        "exampleSentence": "The chief negotiator was famously reticent about disclosing terms before treaties were signed.",
+        "exampleHindiTranslation": "संधियों पर हस्ताक्षर होने से पहले शर्तों का खुलासा करने के बारे में मुख्य वार्ताकार विशेष रूप से अल्पभाषी और सतर्क थे।"
+      },
+      {
+        "hindiMeaning": "मौन रहने वाला",
+        "exampleSentence": "He remained reticent when questioned by intelligence officers regarding his overseas financial contacts.",
+        "exampleHindiTranslation": "अपने विदेशी वित्तीय संपर्कों के बारे में खुफिया अधिकारियों द्वारा पूछताछ किए जाने पर वह पूरी तरह मौन रहा।"
+      },
+      {
+        "hindiMeaning": "संकोची",
+        "exampleSentence": "Her reticent nature prevented her from sharing personal tribulations with colleagues.",
+        "exampleHindiTranslation": "उसके संकोची स्वभाव ने उसे सहकर्मियों के साथ व्यक्तिगत परेशानियों को साझा करने से रोक दिया।"
+      }
+    ],
+    "synonyms": [
+      "taciturn",
+      "reserved",
+      "uncommunicative",
+      "guarded"
+    ],
+    "antonyms": [
+      "frank",
+      "communicative",
+      "voluble",
+      "candid"
+    ],
+    "relatedWords": [
+      "reticence"
+    ],
+    "mnemonic": "Re (again) + Tacere (to be silent, like tacit) -> keeping silent repeatedly.",
+    "usageNotes": "Often tested alongside 'taciturn'.",
+    "difficulty": "medium",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Sycophant",
+    "normalizedTerm": "sycophant",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈsɪk.ə.fænt/",
+      "phonetic": "SIK-uh-fant"
+    },
+    "englishDefinitions": [
+      "A person who acts obsequiously toward someone important in order to gain advantage."
+    ],
+    "hindiMeanings": [
+      "चापलूस",
+      "खुशामदी",
+      "चापलूसी करने वाला"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "चापलूस",
+        "exampleSentence": "Surrounded by sycophants who praised every speech, the minister lost touch with the electorate.",
+        "exampleHindiTranslation": "हर भाषण की तारीफ करने वाले चापलूसों से घिरे मंत्री का मतदाताओं से संपर्क टूट गया।"
+      },
+      {
+        "hindiMeaning": "खुशामदी",
+        "exampleSentence": "The honest civil servant refused to become a sycophant for the political executive.",
+        "exampleHindiTranslation": "ईमानदार सिविल सेवक ने राजनीतिक कार्यपालिका के लिए एक खुशामदी बनने से इनकार कर दिया।"
+      },
+      {
+        "hindiMeaning": "चापलूसी करने वाला",
+        "exampleSentence": "Corporate promotions should reward competence rather than the behavior of sycophants.",
+        "exampleHindiTranslation": "कॉर्पोरेट पदोन्नति में चापलूसी करने वालों के व्यवहार के बजाय योग्यता को पुरस्कृत किया जाना चाहिए।"
+      }
+    ],
+    "synonyms": [
+      "toady",
+      "flatterer",
+      "lackey",
+      "yes-man"
+    ],
+    "antonyms": [
+      "critic",
+      "dissenter",
+      "detractor",
+      "independent"
+    ],
+    "relatedWords": [
+      "sycophantic",
+      "sycophancy"
+    ],
+    "mnemonic": "Sounds like 'psycho fan' -> an obsessed follower who flatters endlessly for selfish gains.",
+    "usageNotes": "Appears in governance and ethical dilemmas comprehension passages.",
+    "difficulty": "hard",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Trepidation",
+    "normalizedTerm": "trepidation",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/ˌtrep.ɪˈdeɪ.ʃən/",
+      "phonetic": "trep-ih-DAY-shun"
+    },
+    "englishDefinitions": [
+      "A feeling of fear or agitation about something that may happen; trembling anxiety."
+    ],
+    "hindiMeanings": [
+      "घबराहट",
+      "डर",
+      "कांपता हुआ भय"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "घबराहट",
+        "exampleSentence": "The candidate entered the interview boardroom with understandable trepidation.",
+        "exampleHindiTranslation": "उम्मीदवार ने स्वाभाविक घबराहट के साथ साक्षात्कार बोर्ड रूम में प्रवेश किया।"
+      },
+      {
+        "hindiMeaning": "डर",
+        "exampleSentence": "There is growing trepidation across capital markets ahead of the central bank's rate announcement.",
+        "exampleHindiTranslation": "केंद्रीय बैंक की दर घोषणा से पहले पूंजी बाजारों में बढ़ता डर और बेचैनी है।"
+      },
+      {
+        "hindiMeaning": "कांपता हुआ भय",
+        "exampleSentence": "Villagers viewed the approaching tropical storm with silent trepidation.",
+        "exampleHindiTranslation": "ग्रामीणों ने खामोश और कांपते हुए भय के साथ आने वाले चक्रवाती तूफान को देखा।"
+      }
+    ],
+    "synonyms": [
+      "apprehension",
+      "dread",
+      "anxiety",
+      "unease"
+    ],
+    "antonyms": [
+      "equanimity",
+      "composure",
+      "intrepidity",
+      "calm"
+    ],
+    "relatedWords": [
+      "trepid",
+      "intrepid"
+    ],
+    "mnemonic": "Connects to 'tremble' -> trembling with fear and anxiety.",
+    "usageNotes": "Direct antonym to 'equanimity' or 'composure'.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Ubiquitous",
+    "normalizedTerm": "ubiquitous",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/juːˈbɪk.wɪ.təs/",
+      "phonetic": "yoo-BIK-wih-tuhs"
+    },
+    "englishDefinitions": [
+      "Present, appearing, or found everywhere; omnipresent."
+    ],
+    "hindiMeanings": [
+      "सर्वव्यापी",
+      "हर जगह मौजूद",
+      "सर्वत्र सुलभ"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "सर्वव्यापी",
+        "exampleSentence": "In modern Indian cities, mobile digital payments have become an ubiquitous reality.",
+        "exampleHindiTranslation": "आधुनिक भारतीय शहरों में मोबाइल डिजिटल भुगतान एक सर्वव्यापी वास्तविकता बन गए हैं।"
+      },
+      {
+        "hindiMeaning": "हर जगह मौजूद",
+        "exampleSentence": "Plastic pollution has become an ubiquitous ecological scourge found from mountain peaks to deep ocean trenches.",
+        "exampleHindiTranslation": "प्लास्टिक प्रदूषण पर्वत चोटियों से लेकर गहरे समुद्री खाइयों तक हर जगह मौजूद एक पारिस्थितिक संकट बन गया है।"
+      },
+      {
+        "hindiMeaning": "सर्वत्र सुलभ",
+        "exampleSentence": "Affordable 4G connectivity made online education ubiquitous across rural classrooms.",
+        "exampleHindiTranslation": "किफायती 4G कनेक्टिविटी ने ग्रामीण कक्षाओं में ऑनलाइन शिक्षा को सर्वत्र सुलभ बना दिया।"
+      }
+    ],
+    "synonyms": [
+      "omnipresent",
+      "pervasive",
+      "universal",
+      "all-pervading"
+    ],
+    "antonyms": [
+      "rare",
+      "scarce",
+      "infrequent",
+      "isolated"
+    ],
+    "relatedWords": [
+      "ubiquity"
+    ],
+    "mnemonic": "Ubi (where, Latin) -> present everywhere at once, like mosquito nets or smartphones.",
+    "usageNotes": "A perennial favorite in competitive English examinations.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Voracious",
+    "normalizedTerm": "voracious",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "adjective"
+    ],
+    "pronunciation": {
+      "ipa": "/vəˈreɪ.ʃəs/",
+      "phonetic": "vuh-RAY-shuhs"
+    },
+    "englishDefinitions": [
+      "Wanting or devouring great quantities of food; having a very eager approach to an activity."
+    ],
+    "hindiMeanings": [
+      "पेटू",
+      "अति-उत्सुक",
+      "अतृप्त"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "पेटू",
+        "exampleSentence": "After a grueling 20-kilometer trek through snow, the soldiers ate with a voracious appetite.",
+        "exampleHindiTranslation": "बर्फ में 20 किलोमीटर की थका देने वाली पैदल यात्रा के बाद सैनिकों ने पेटू की तरह बहुत तेज भूख से खाना खाया।"
+      },
+      {
+        "hindiMeaning": "अति-उत्सुक",
+        "exampleSentence": "Dr. B.R. Ambedkar was a voracious reader who acquired thousands of books on law and social justice.",
+        "exampleHindiTranslation": "डॉ. बी.आर. अंबेडकर एक अति-उत्सुक पाठक थे जिन्होंने कानून और सामाजिक न्याय पर हजारों किताबें पढ़ीं।"
+      },
+      {
+        "hindiMeaning": "अतृप्त",
+        "exampleSentence": "The expanding manufacturing sector created a voracious demand for crude petroleum and thermal power.",
+        "exampleHindiTranslation": "विस्तारित होते विनिर्माण क्षेत्र ने कच्चे पेट्रोलियम और थर्मल पावर की एक अतृप्त मांग पैदा की।"
+      }
+    ],
+    "synonyms": [
+      "insatiable",
+      "ravenous",
+      "rapacious",
+      "gluttonous"
+    ],
+    "antonyms": [
+      "abstemicious",
+      "moderate",
+      "satisfied",
+      "sated"
+    ],
+    "relatedWords": [
+      "voracity",
+      "carnivorous"
+    ],
+    "mnemonic": "Vor (to swallow/eat, like carnivore) -> wanting to devour everything eagerly.",
+    "usageNotes": "Most often collocated with 'reader' ('voracious reader') or 'appetite'.",
+    "difficulty": "medium",
+    "category": "General",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  },
+  {
+    "term": "Zealot",
+    "normalizedTerm": "zealot",
+    "contentType": "word",
+    "partsOfSpeech": [
+      "noun"
+    ],
+    "pronunciation": {
+      "ipa": "/ˈzel.ət/",
+      "phonetic": "ZEL-uht"
+    },
+    "englishDefinitions": [
+      "A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals."
+    ],
+    "hindiMeanings": [
+      "कट्टरपंथी",
+      "अति-उत्साही",
+      "हठधर्मी"
+    ],
+    "meaningsWithExamples": [
+      {
+        "hindiMeaning": "कट्टरपंथी",
+        "exampleSentence": "The extremist group was spearheaded by ideological zealots who violently rejected moderate compromise.",
+        "exampleHindiTranslation": "चरमपंथी समूह का नेतृत्व ऐसे वैचारिक कट्टरपंथियों द्वारा किया गया जिन्होंने मध्यम समझौते को हिंसक रूप से खारिज कर दिया।"
+      },
+      {
+        "hindiMeaning": "अति-उत्साही",
+        "exampleSentence": "While dedicated to the environment, he was perceived by colleagues as a zealot who alienated neutrals.",
+        "exampleHindiTranslation": "पर्यावरण के प्रति समर्पित होने के बावजूद सहकर्मियों द्वारा उन्हें एक ऐसे अति-उत्साही के रूप में देखा गया जिन्होंने तटस्थ लोगों को अलग कर दिया।"
+      },
+      {
+        "hindiMeaning": "हठधर्मी",
+        "exampleSentence": "The committee warned that partisan zealots in public offices undermine bureaucratic neutralities.",
+        "exampleHindiTranslation": "समिति ने चेतावनी दी कि सार्वजनिक कार्यालयों में पक्षपाती हठधर्मी लोग नौकरशाही की तटस्थता को कमजोर करते हैं।"
+      }
+    ],
+    "synonyms": [
+      "fanatic",
+      "extremist",
+      "dogmatist",
+      "radical"
+    ],
+    "antonyms": [
+      "moderate",
+      "pragmatist",
+      "latitudinarian",
+      "centrist"
+    ],
+    "relatedWords": [
+      "zeal",
+      "zealous"
+    ],
+    "mnemonic": "Zeal (extreme energy) + Lot -> someone who has too much blind zeal.",
+    "usageNotes": "Carries a pejorative connotation indicating rigid unwillingness to compromise.",
+    "difficulty": "medium",
+    "category": "Society",
+    "enrichment": {
+      "enrichedBy": "system_curated",
+      "isVerified": true
+    },
+    "isSystem": true,
+    "createdBy": null
+  }
+]
